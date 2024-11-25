@@ -13,6 +13,7 @@ Technologies Used
 Real-Life Implementation
 
 This application can be used in various real-life scenarios, such as:
+
 	    •	Online Marketplaces: Facilitates the creation of an online marketplace where users can buy and sell items.
 	    •	Inventory Management: Helps small businesses manage their inventory and sales.
 	    •	User Management: Enables secure user registration and authentication for web applications.
