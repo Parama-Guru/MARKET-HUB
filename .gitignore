@@ -1,2 +1,4 @@
 myenv/
 .pem*
+setup_db.py
+__pycache__
